@@ -1,0 +1,49 @@
+﻿Capstone 3: Model Metrics
+
+
+Feature Engineering
+New features: 
+1. Character count
+2. Word count
+3. Capital word count
+4. Words in quotes count
+5. Sentence count
+6. Unique word count
+7. Stopword count
+8. Average word length
+9. Average sentence length
+10. Unique word ratio
+11. Stopword ratio
+12. Noun count
+13. Verb count
+14. Adverb count
+15. Adjective count
+
+
+Text Preprocessing
+1. Tokenize
+2. Lowercase all characters
+3. Remove stopwords
+4. Lemmatize
+5. TF-IDF vectorizer with 2500 features
+
+
+Modeling
+Best Model:
+* CatBoost Classifier
+* 5-class classification
+* Include added features with vectorized text
+* 0.5900 accuracy
+* 0.5710 f1-score
+* Top 3 most important features: (1) unique word ratio, (2) stopword ratio, (3) noun count
+* Learning rate: 0.0896
+* Tree count: 1000
+* Random seed: 42
+* Input size: 2515
+* Output size: 5
+
+
+ChatGPT Results:
+* Engine: text-davinci-003
+* OpenAI GPT-3.5
+* Best using raw data
