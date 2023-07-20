@@ -41,7 +41,7 @@ Now, to set the classification algorithms up for the most success, there are sev
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/mXTX8IX.png" height="40%" width="70%" alt="tfidf"/>
+<img src="https://i.imgur.com/mXTX8IX.png" height="50%" width="90%" alt="tfidf"/>
 <br />
 
 
