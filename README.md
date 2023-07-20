@@ -51,17 +51,17 @@ In the last step of the data science pipeline, I utilized Random Forest, XGBoost
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/LVxHgC9.png" height="40%" width="40%" alt="class results"/>
+<img src="https://i.imgur.com/LVxHgC9.png" height="50%" width="80%" alt="class results"/>
 <br />
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/ruRsALb.png" height="40%" width="40%" alt="catboost"/>
+<img src="https://i.imgur.com/ruRsALb.png" height="50%" width="80%" alt="catboost"/>
 <br />
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/VEb9Lxy.png" height="40%" width="40%" alt="feat importance"/>
+<img src="https://i.imgur.com/VEb9Lxy.png" height="10%" width="30%" alt="feat importance"/>
 <br />
 
 ## 7. OpenAI ChatGPT Comparison
