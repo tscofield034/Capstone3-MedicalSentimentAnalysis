@@ -51,7 +51,7 @@ In the last step of the data science pipeline, I utilized Random Forest, XGBoost
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/LVxHgC9.png" height="50%" width="80%" alt="class results"/>
+<img src="https://i.imgur.com/LVxHgC9.png" height="40%" width="60%" alt="class results"/>
 <br />
 
 <p align="center">
@@ -74,7 +74,7 @@ plus the text of the medical abstract. This prompt is explicit and tells the cha
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/mddLyW7.png" height="40%" width="40%" alt="chatgpt table"/>
+<img src="https://i.imgur.com/mddLyW7.png" height="50%" width="80%" alt="chatgpt table"/>
 <br />
 
 
